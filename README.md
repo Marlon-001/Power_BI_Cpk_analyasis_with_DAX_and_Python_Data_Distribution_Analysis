@@ -1,0 +1,2 @@
+# Power_BI_Cpk_analyasis_with_DAX_and_Python_Data_Distribution_Analysis
+This dashboard integrates Power BI DAX with Python for advanced data distribution and Process Capability (Cpk) analysis. By automating statistical metrics and custom matplotlib visuals like boxplots and histograms, it empowers Advanced Manufacturing Engineers to rapidly assess process stability and optimize performance to meet strict tolerances.
